@@ -37,8 +37,8 @@ NutriScan bridges the gap between packaged food and digital health by leveraging
 
 # NutriScanAPI and It's Demo
 
-Get the NutriScan API [here](https://github.com/shahyaksh/NutriScan-API)
-Watch working of the API [here](https://drive.google.com/file/d/1x40lju3RnY4X-gbP00R4zvgIircnKc5G/view?usp=drive_link)
+- Get the NutriScan API [here](https://github.com/shahyaksh/NutriScan-API) <br>
+- Watch working of the API [here](https://drive.google.com/file/d/1x40lju3RnY4X-gbP00R4zvgIircnKc5G/view?usp=drive_link)
 
 # NutriScan Model Training
 Access the NutriScan model [here](https://github.com/shahyaksh/NutriScan-Model)
