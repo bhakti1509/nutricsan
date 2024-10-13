@@ -41,7 +41,7 @@ Get the NutriScan API [here](https://github.com/shahyaksh/NutriScan-API)
 Watch working of the API [here](https://drive.google.com/file/d/1x40lju3RnY4X-gbP00R4zvgIircnKc5G/view?usp=drive_link)
 
 # NutriScan Model Training
-Access the NutriScan model [here]('https://github.com/shahyaksh/NutriScan-Model')
+Access the NutriScan model [here](https://github.com/shahyaksh/NutriScan-Model)
 
 # Full Demo
 Watch the full video of application [here](https://drive.google.com/file/d/1XL3nSaGOhTcGiCDLzhRyKHcaNAXea17H/view?usp=drive_link)
